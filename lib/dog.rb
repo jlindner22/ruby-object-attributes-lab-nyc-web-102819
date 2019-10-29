@@ -1,3 +1,5 @@
 class Dog 
-  method 
+  def name 
+    
+  end
 end
